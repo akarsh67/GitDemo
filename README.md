@@ -1,3 +1,3 @@
 # GitDemo is the Repository Name
 
-This is my first repo
+The data available here is duplicate data only
